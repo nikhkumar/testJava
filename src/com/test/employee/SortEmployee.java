@@ -30,9 +30,6 @@ public class SortEmployee {
 		     }
 		});
 		empList.forEach(System.out::println);
-		
-		
-		
 	}
 	
 	private void populateEmpData() {

@@ -1,4 +1,4 @@
-package testJava;
+package com.test.oops;
 
 public class A {
 	void printt(int i) {

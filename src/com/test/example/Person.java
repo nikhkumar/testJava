@@ -1,5 +1,5 @@
 
-package testJava;
+package com.test.example;
 
 import java.util.HashMap;
 

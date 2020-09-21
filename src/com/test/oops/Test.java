@@ -1,4 +1,4 @@
-package testJava;
+package com.test.oops;
 
 public class Test {
 	public static void main(String[] args) {

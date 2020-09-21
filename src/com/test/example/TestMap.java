@@ -1,11 +1,11 @@
-package com.test.domain;
+package com.test.example;
 
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class Test {
+public class TestMap {
 
 	public static void main(String[] args) {
 		
